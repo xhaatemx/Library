@@ -4,11 +4,11 @@ it will have books in sections:
 
 * computer science
 * Human resource
-* Low
-* Education
-* Language
 * Marketing
 * Economics
+* Education
+* Language
 * Politics
 * Religion
 * Science
+* Low
