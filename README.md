@@ -4,8 +4,8 @@ it will have books in sections:
 
 * computer science
 * Human resource
-* Marketing
 * Economics
+* Marketing
 * Education
 * Language
 * Religion
