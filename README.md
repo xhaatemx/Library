@@ -7,8 +7,8 @@ it will have books in sections:
 * Marketing
 * Economics
 * Education
-* Politics
-* Religion
 * Language
+* Religion
 * Science
+* Politics
 * Low
